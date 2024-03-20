@@ -1,0 +1,12 @@
+# OpenAI client lib
+openai
+
+#Pyspark important too
+pyspark
+
+# for ML stuff
+scikit-learn
+
+#moar ML stuff
+numpy
+
